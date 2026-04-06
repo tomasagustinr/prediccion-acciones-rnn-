@@ -6,7 +6,7 @@ Modelo de predicción de precios bursátiles usando una Red Neuronal Recurrente 
 
 ## ¿Cómo usarlo?
 
-1. Abrí `visualizador_colab.ipynb` en [Google Colab](https://colab.research.google.com/)
+1. Abrí `rnn_prediccion_acciones.ipynb` en [Google Colab](https://colab.research.google.com/)
 2. Ejecutá la **celda 1** para instalar las dependencias
 3. Ejecutá la **celda 2** para cargar el visualizador
 4. Ingresá el ticker de la acción (ej: `TSLA`, `AAPL`, `GOOGL`)
