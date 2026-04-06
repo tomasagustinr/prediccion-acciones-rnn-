@@ -61,8 +61,7 @@ ipywidgets
 ## Estructura del repositorio
 
 ```
-├── visualizador_colab.ipynb        # Notebook principal con visualizador interactivo
-├── Proyecto_prediccion_con_yfinance_v2.ipynb  # Notebook original paso a paso
+├── rnn_prediccion_acciones.ipynb        # Notebook principal con visualizador interactivo
 └── README.md
 ```
 
